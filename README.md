@@ -11,7 +11,8 @@ Note:
 Detailed protocol for usage of tool is as following:
 
 1.	Prepare 3D structure of query molecule, and save it as .sdf file.
-2.	Download Full SysTarPKC_Tool.zip (Since > 25 MB) from https://drive.google.com/open?id=1IKPDpGyzDrerm3VLo0i5g9j8jFaLGJfE  
+2.	Download Full SysTarPKC_Tool.zip (Since > 25 MB) from:
+https://drive.google.com/open?id=1IKPDpGyzDrerm3VLo0i5g9j8jFaLGJfE  
 3.	Extract the .zip file and double click the executable ‘Run_SysTarPKC_Tool.jar’.
 4.	Click ‘Step1 button’, to open a file browser for selection of .sdf file of query molecule. This process will provide input value for SBML simulator, which is a value from PKC domain derived for query structure. This float value is input for SBMLsimulator.
 5.	Now click ‘Step2 button’, and load the ‘PKC_Model.xml’ model. 
